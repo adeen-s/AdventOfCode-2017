@@ -17,4 +17,4 @@ while li not in record:
     print(li)
     print(record)
     print(len(record))
-print("Cycles for repition --> " + str(len(record) - record.index(li)))
+print("Cycles for repitition --> " + str(len(record) - record.index(li)))
